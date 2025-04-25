@@ -1,3 +1,9 @@
 archive/
 quilt_1m/
 quilt_1M_lookup.csv
+.venv/
+*.pyc
+*.pyo
+*.pyd   
+__pycache__/
+quilt_1m_paired/
