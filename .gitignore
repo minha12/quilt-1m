@@ -6,4 +6,4 @@ quilt_1M_lookup.csv
 *.pyo
 *.pyd   
 __pycache__/
-quilt_1m_paired/
+quilt_1m_val/
