@@ -7,3 +7,4 @@ quilt_1M_lookup.csv
 *.pyd   
 __pycache__/
 quilt_1m_val/
+quilt_1m_samples/
